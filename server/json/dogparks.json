@@ -1,0 +1,523 @@
+{
+    "type": "FeatureCollection",
+    "totalFeatures": 11,
+    "features": [{
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.184191",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.449288284E7, 6815096.14],
+                    [2.449288172E7, 6815093.69],
+                    [2.449288437E7, 6815086.46],
+                    [2.449288551E7, 6815083.09],
+                    [2.449288679E7, 6815077.41],
+                    [2.449288725E7, 6815073.29],
+                    [2.449288752E7, 6815069.69],
+                    [2.449288744E7, 6815065.9],
+                    [2.44928872E7, 6815062.3],
+                    [2.44928866E7, 6815058.58],
+                    [2.449288563E7, 6815054.81],
+                    [2.449289088E7, 6815053.17],
+                    [2.449289648E7, 6815052.5],
+                    [2.44929021E7, 6815052.26],
+                    [2.449290799E7, 6815052.48],
+                    [2.449291303E7, 6815053.02],
+                    [2.449291373E7, 6815058.67],
+                    [2.449291379E7, 6815071.59],
+                    [2.449291192E7, 6815086.23],
+                    [2.449291111E7, 6815089.78],
+                    [2.449290837E7, 6815096.74],
+                    [2.449290429E7, 6815105.26],
+                    [2.449290024E7, 6815111.22],
+                    [2.449289931E7, 6815112.4],
+                    [2.449289788E7, 6815113.38],
+                    [2.449289644E7, 6815114.19],
+                    [2.449289437E7, 6815114.79],
+                    [2.449289081E7, 6815110.44],
+                    [2.449288882E7, 6815107.45],
+                    [2.449288706E7, 6815104.41],
+                    [2.449288466E7, 6815099.47],
+                    [2.449288284E7, 6815096.14],
+                    [2.449288284E7, 6815096.14]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 184191,
+            "ALUE_NIMI": "NÃ„YTTÃ„MÃ–NPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "ELNA HELLMANIN KATU - SIMO KAARION KATU",
+            "ALUEEN_OSAN_SIJ": "ELNA HELLMANIN KATU - SIMO KAARION KATU",
+            "PINTA_ALA": 1453,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "HERVANTA",
+            "KAUPUNGINOSA": "HERVANTA",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.178677",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.449061758E7, 6820563.31],
+                    [2.449065097E7, 6820543.98],
+                    [2.449065287E7, 6820548.58],
+                    [2.449066554E7, 6820579.51],
+                    [2.449065233E7, 6820593.28],
+                    [2.449064796E7, 6820597.84],
+                    [2.449064414E7, 6820601.39],
+                    [2.449063044E7, 6820609.5],
+                    [2.449060458E7, 6820623.96],
+                    [2.449054738E7, 6820611.23],
+                    [2.449056474E7, 6820595.37],
+                    [2.449058803E7, 6820581.06],
+                    [2.449059603E7, 6820576.24],
+                    [2.449061527E7, 6820564.65],
+                    [2.449061758E7, 6820563.31],
+                    [2.449061758E7, 6820563.31]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 178677,
+            "ALUE_NIMI": "HAKAMETSÃ„",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "UUDENKYLÃ„NKATU - SAMMON VALTATIE",
+            "ALUEEN_OSAN_SIJ": "UUDENKYLÃ„NKATU - SAMMON VALTATIE",
+            "PINTA_ALA": 4458,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "KISSANMAA",
+            "KAUPUNGINOSA": "KISSANMAA",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.119558",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.448182189601E7, 6823737.0600025],
+                    [2.448180198001E7, 6823713.9310195],
+                    [2.448181552601E7, 6823691.8010095],
+                    [2.448182189601E7, 6823688.536993],
+                    [2.448182189601E7, 6823688.536993],
+                    [2.44818542360125E7, 6823671.9650005],
+                    [2.44818627280025E7, 6823681.949992],
+                    [2.44818424589875E7, 6823713.8360065],
+                    [2.4481840195005E7, 6823717.427992],
+                    [2.4481825271005E7, 6823740.9799975],
+                    [2.448182189601E7, 6823737.0600025]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 119558,
+            "ALUE_NIMI": "VIIRAPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "POSSIJÃ„RVENKATU - MYLLYPURONKATU",
+            "ALUEEN_OSAN_SIJ": "POSSIJÃ„RVENKATU - MYLLYPURONKATU",
+            "PINTA_ALA": 1926,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "LIELAHTI",
+            "KAUPUNGINOSA": "RYYDYNPOHJA",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.124001",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.4487225871E7, 6818607.799],
+                    [2.4487227834E7, 6818607.413],
+                    [2.4487233739E7, 6818606.293],
+                    [2.4487235056E7, 6818613.237],
+                    [2.4487236411E7, 6818614.895],
+                    [2.4487240669E7, 6818616.448],
+                    [2.4487244589E7, 6818616.448],
+                    [2.4487246197E7, 6818616.254],
+                    [2.4487246197E7, 6818615.743],
+                    [2.4487250622E7, 6818600.74],
+                    [2.4487243796E7, 6818594.268],
+                    [2.4487227196E7, 6818578.727],
+                    [2.4487195049E7, 6818579.457],
+                    [2.4487186775E7, 6818593.1],
+                    [2.4487186775E7, 6818605.74],
+                    [2.4487204414E7, 6818618.642],
+                    [2.4487227474E7, 6818616.879],
+                    [2.4487225871E7, 6818607.799]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 124001,
+            "ALUE_NIMI": "HÃ„RMÃ„LÃ„N RANTAPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "PIHLAJAKATU - TUOMIKUJA",
+            "ALUEEN_OSAN_SIJ": "PIHLAJAKATU - TUOMIKUJA",
+            "PINTA_ALA": 1913,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "PELTOLAMMI",
+            "KAUPUNGINOSA": "RANTAPERKIÃ–",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "PIHAHUOLTO HAAPANIEMI KY",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.128277",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.448566558599E7, 6817494.8240005],
+                    [2.44856609220125E7, 6817507.6940095],
+                    [2.44856476050075E7, 6817543.289986],
+                    [2.4485637830015E7, 6817542.5300035],
+                    [2.44856231730025E7, 6817541.4130135],
+                    [2.44856033589875E7, 6817539.9260155],
+                    [2.448557877199E7, 6817535.950009],
+                    [2.44855876180025E7, 6817517.939983],
+                    [2.44855947260125E7, 6817503.4999915],
+                    [2.4485600861005E7, 6817491.056002],
+                    [2.44856068760075E7, 6817478.790982],
+                    [2.44856117439875E7, 6817468.969003],
+                    [2.4485612238995E7, 6817469.2169845],
+                    [2.44856265580075E7, 6817476.091981],
+                    [2.4485634788015E7, 6817480.0900195],
+                    [2.448564797099E7, 6817486.265986],
+                    [2.448566558599E7, 6817494.8240005]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 128277,
+            "ALUE_NIMI": "VÃ„HÃ„JÃ„RVENPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "LEPOLANTIE - PERKIÃ–NKATU",
+            "ALUEEN_OSAN_SIJ": "LEPOLANTIE - PERKIÃ–NKATU",
+            "PINTA_ALA": 4014,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "PELTOLAMMI",
+            "KAUPUNGINOSA": "HÃ„RMÃ„LÃ„",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "PIHAHUOLTO HAAPANIEMI KY",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.134922",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.44937085590125E7, 6817648.572004],
+                    [2.4493703415985E7, 6817645.8310045],
+                    [2.449370164701E7, 6817644.6910105],
+                    [2.4493689346995E7, 6817629.1079875],
+                    [2.44936974889925E7, 6817614.424996],
+                    [2.44937259400125E7, 6817608.3740125],
+                    [2.4493744214015E7, 6817607.496013],
+                    [2.44937547300075E7, 6817622.5469875],
+                    [2.4493748559005E7, 6817645.011001],
+                    [2.44937226569925E7, 6817647.281998],
+                    [2.4493712213995E7, 6817648.24201],
+                    [2.44937085590125E7, 6817648.572004]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 134922,
+            "ALUE_NIMI": "ISOLAMMENPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "ISOLAMMENKATU - ISONIITYNPOLKU",
+            "ALUEEN_OSAN_SIJ": "ISOLAMMENKATU - ISONIITYNPOLKU",
+            "PINTA_ALA": 2052,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "LEINOLA",
+            "KAUPUNGINOSA": "KAUKAJÃ„RVI",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.134904",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.44957626039925E7, 6819097.936999],
+                    [2.4495771109015E7, 6819115.059994],
+                    [2.44957757700025E7, 6819121.270993],
+                    [2.44957817839975E7, 6819129.382981],
+                    [2.4495760483985E7, 6819134.583991],
+                    [2.4495710165015E7, 6819152.316997],
+                    [2.44957046289975E7, 6819154.1780125],
+                    [2.4495694425005E7, 6819151.726993],
+                    [2.44956862750125E7, 6819135.544003],
+                    [2.44957000760075E7, 6819118.071007],
+                    [2.44957076319975E7, 6819111.779008],
+                    [2.44957108740025E7, 6819110.399011],
+                    [2.44957286349925E7, 6819102.4480105],
+                    [2.4495731438995E7, 6819101.107015],
+                    [2.44957357539875E7, 6819100.6669825],
+                    [2.44957626039925E7, 6819097.936999]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 134904,
+            "ALUE_NIMI": "VESTONPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "VESTONKATU",
+            "ALUEEN_OSAN_SIJ": "VESTONKATU",
+            "PINTA_ALA": 3143,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "LEINOLA",
+            "KAUPUNGINOSA": "LEINOLA",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.159370",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.448106754E7, 6820779.47],
+                    [2.448106197E7, 6820777.09],
+                    [2.44810509E7, 6820772.71],
+                    [2.448104176E7, 6820769.25],
+                    [2.448103441E7, 6820772.98],
+                    [2.448102411E7, 6820778.43],
+                    [2.448101352E7, 6820784.06],
+                    [2.448100294E7, 6820789.56],
+                    [2.448099253E7, 6820795.03],
+                    [2.44809871E7, 6820797.9],
+                    [2.448098032E7, 6820801.48],
+                    [2.448099278E7, 6820808.09],
+                    [2.44810081E7, 6820816.25],
+                    [2.448100931E7, 6820816.85],
+                    [2.448101783E7, 6820821.37],
+                    [2.448103189E7, 6820824.1],
+                    [2.448104534E7, 6820826.63],
+                    [2.448107073E7, 6820831.09],
+                    [2.44810707E7, 6820825.97],
+                    [2.448107041E7, 6820818.4],
+                    [2.44810722E7, 6820815.47],
+                    [2.448107386E7, 6820812.49],
+                    [2.448107365E7, 6820810.15],
+                    [2.448107182E7, 6820800.83],
+                    [2.448107065E7, 6820794.66],
+                    [2.448106953E7, 6820788.92],
+                    [2.448106754E7, 6820779.47],
+                    [2.448106754E7, 6820779.47]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 159370,
+            "ALUE_NIMI": "VILLILÃ„NPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "VILLILÃ„NNIEMI",
+            "ALUEEN_OSAN_SIJ": "VILLILÃ„NNIEMI",
+            "PINTA_ALA": 3466,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "KESKUSTA",
+            "KAUPUNGINOSA": "VILLILÃ„",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.147971",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.4478719995E7, 6821704.3859815],
+                    [2.44787199230125E7, 6821702.3319835],
+                    [2.44787206930025E7, 6821695.4929915],
+                    [2.4478718973005E7, 6821695.3130095],
+                    [2.44786861629875E7, 6821693.8840075],
+                    [2.447868247401E7, 6821667.054013],
+                    [2.44786839340075E7, 6821662.703989],
+                    [2.44786801539975E7, 6821651.884009],
+                    [2.4478682685E7, 6821635.7750125],
+                    [2.4478699774995E7, 6821632.684012],
+                    [2.44787149050125E7, 6821635.973989],
+                    [2.447873991399E7, 6821659.712011],
+                    [2.4478737043005E7, 6821696.1320005],
+                    [2.4478733239985E7, 6821696.069995],
+                    [2.447873330999E7, 6821704.5999835],
+                    [2.4478719995E7, 6821704.3859815]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 147971,
+            "ALUE_NIMI": "LEIMAPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "TESOMANKATU",
+            "ALUEEN_OSAN_SIJ": "TESOMANKATU",
+            "PINTA_ALA": 3180,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "KALKKU",
+            "KAUPUNGINOSA": "TESOMAJÃ„RVI",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "DESTIA OY",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.183780",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.449176364E7, 6815314.01],
+                    [2.449176454E7, 6815312.85],
+                    [2.44917645E7, 6815310.97],
+                    [2.449177309E7, 6815305.82],
+                    [2.449178076E7, 6815301.35],
+                    [2.44917892E7, 6815296.4],
+                    [2.44917978E7, 6815291.31],
+                    [2.449180206E7, 6815289.04],
+                    [2.449180698E7, 6815289.3],
+                    [2.449181319E7, 6815289.62],
+                    [2.449181508E7, 6815294.3],
+                    [2.449181765E7, 6815301.21],
+                    [2.449181939E7, 6815305.66],
+                    [2.449182184E7, 6815312.02],
+                    [2.449181523E7, 6815315.17],
+                    [2.449181202E7, 6815319.75],
+                    [2.449180652E7, 6815327.63],
+                    [2.449179776E7, 6815328.41],
+                    [2.449178902E7, 6815334.51],
+                    [2.449177927E7, 6815341.41],
+                    [2.449177027E7, 6815335.99],
+                    [2.449176284E7, 6815331.52],
+                    [2.449175549E7, 6815327.07],
+                    [2.44917562E7, 6815320.63],
+                    [2.449176364E7, 6815314.01],
+                    [2.449176364E7, 6815314.01]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 183780,
+            "ALUE_NIMI": "AHVENISPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "TEEKKARINKATU - LINDFORSINKATU",
+            "ALUEEN_OSAN_SIJ": "TEEKKARINKATU - LINDFORSINKATU",
+            "PINTA_ALA": 1940,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "HERVANTA",
+            "KAUPUNGINOSA": "HERVANTA",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }, {
+        "type": "Feature",
+        "id": "WFS_KOIRAPUISTO_MVIEW.160589",
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [2.448722764E7, 6820341.97],
+                    [2.44872258E7, 6820324.88],
+                    [2.448725982E7, 6820329.87],
+                    [2.448728802E7, 6820333.91],
+                    [2.448728558E7, 6820345.86],
+                    [2.448726465E7, 6820357.88],
+                    [2.448725037E7, 6820365.85],
+                    [2.448723027E7, 6820366.45],
+                    [2.448722811E7, 6820346.36],
+                    [2.448722764E7, 6820341.97],
+                    [2.448722764E7, 6820341.97]
+                ]
+            ]
+        },
+        "geometry_name": "GEOLOC",
+        "properties": {
+            "VIHERALUEEN_OSAN_ID": 160589,
+            "ALUE_NIMI": "RATINAN RANTAPUISTO",
+            "OSA_ALUE_NIMI": null,
+            "ALUE_SIJ": "RATINAN RANTATIE - TAMPEREEN VALTATIE",
+            "ALUEEN_OSAN_SIJ": "RATINAN RANTATIE - TAMPEREEN VALTATIE",
+            "PINTA_ALA": 1770,
+            "KAYTTOLK": "YLEISET VIHERALUEET",
+            "HOITOLK": "E5 - KOIRA-AITAUKSET JA KOIRIEN UITTOALUEET",
+            "TOIMLK": "KOIRAPUISTO",
+            "URAKKA_ALUE": "KESKUSTA",
+            "KAUPUNGINOSA": "RATINA XIII",
+            "TILAAJA": "KAKE",
+            "KUNNOSSAPITAJA": "TAMPEREEN INFRA",
+            "ERITYISKAYTTO": null,
+            "KP_KAUSI": null
+        }
+    }],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::3878"
+        }
+    }
+}
