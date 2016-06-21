@@ -1,7 +1,7 @@
 {
-  "name": "tamperedogeapi",
+  "name": "dogeapi",
   "version": "1.0.0",
-  "description": "A cleaner JSON API for Tampere Area dog parks and trash bins",
+  "description": "A cleaner JSON API for dog parks and trash bins",
   "main": "server/server.js",
   "scripts": {
     "clean": "rimraf node_modules",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ottoo/TampereDogeAPI.git"
+    "url": "git+https://github.com/ottoo/DogeAPI.git"
   },
   "keywords": [
     "hapijs"
@@ -19,18 +19,19 @@
   "author": "Otto Kivikarki",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ottoo/TampereDogeAPI/issues"
+    "url": "https://github.com/ottoo/DogeAPI/issues"
   },
   "devDependencies": {
     "jasmine-node": "^1.14.5"
   },
-  "homepage": "https://github.com/ottoo/TampereDogeAPI#readme",
+  "homepage": "https://github.com/ottoo/DogeAPI#readme",
   "dependencies": {
     "boom": "^3.2.2",
     "good": "^7.0.0",
     "good-console": "^6.1.1",
     "good-squeeze": "^4.0.0",
     "hapi": "^13.4.0",
+    "joi": "^8.4.2",
     "lodash": "^4.12.0",
     "wreck": "^8.0.0"
   }
