@@ -28,11 +28,13 @@ npm run test
 
 ### Trashbins API
 
-The APi will return Tampere area trashbins in the following simple format.
+The API will return Tampere area trashbins in the following simple format.
 
 ##### route
 
-```[hostname]:[port]/api/v1/trashbins?location=Tampere```
+```
+[hostname]:[port]/api/v1/trashbins?location=Tampere
+```
 
 ##### count
 
